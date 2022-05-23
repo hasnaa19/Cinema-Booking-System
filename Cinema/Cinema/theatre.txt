@@ -1,0 +1,6 @@
+Harry_Potter              CFC        POINT90      8    0  0      10   3  0      13   0  0       15   3  0        18   0  0        20  3  0
+Black_Pwan                CFC        POINT90      8    0  0      10   3  0      13   0  0       15   3  0        18   0  0        20  3  0
+Split                     CFC                     8    0  0      10   3  0      13   0  0       15   3  0        18   0  0        20  3  0  
+Tangled                   CFC                     8    0  0      10   3  0      13   0  0       15   3  0        18   0  0        20  3  0
+Al_fil_Al_Azrak           POINT90                 8    0  0      10   3  0      13   0  0       15   3  0        18   0  0        20  3  0
+Hepta                     POINT90                 8    0  0      10   3  0      13   0  0       15   3  0        18   0  0        20  3  0
